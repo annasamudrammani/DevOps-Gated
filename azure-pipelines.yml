@@ -9,7 +9,7 @@ trigger:
     - '*'
 
 pool:
-  name: Gate
+  name: Demo
 
 variables:
   buildConfiguration: 'Release'
